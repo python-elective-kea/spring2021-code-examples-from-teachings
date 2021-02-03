@@ -1,5 +1,6 @@
-# Code from teachings Ses 1
+# Code from teachings Session 1
 
-* Class A
-* Class B
+## Video screencasts from teachings
 
+* [Introduktion to python session 1.1](https://youtu.be/uMZ1Q3kENmI)
+* [Introduktion to python session 1.2](https://youtu.be/aaBinIEa-rk)
